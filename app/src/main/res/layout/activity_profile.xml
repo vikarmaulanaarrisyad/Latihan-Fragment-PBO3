@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context="com.nim19041156.flexiblefragmentapp5h.ProfileActivity">
+    tools:context="com.nim19041081.flexiblefragmentapp5h.ProfileActivity">
 
     <TextView
         android:layout_width="match_parent"

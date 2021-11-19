@@ -1,4 +1,4 @@
-package com.nim19041156.flexiblefragmentapp5h
+package com.nim19041081.flexiblefragmentapp5h
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

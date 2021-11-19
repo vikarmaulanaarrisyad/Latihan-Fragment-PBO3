@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nim19041156.flexiblefragmentapp5h">
+    package="com.nim19041081.flexiblefragmentapp5h">
 
     <application
         android:allowBackup="true"
@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FlexibleFragmentApp5H">
         <activity
-            android:name="com.nim19041156.flexiblefragmentapp5h.ProfileActivity"
+            android:name="com.nim19041081.flexiblefragmentapp5h.ProfileActivity"
             android:exported="false" />
         <activity
-            android:name="com.nim19041156.flexiblefragmentapp5h.MainActivity"
+            android:name="com.nim19041081.flexiblefragmentapp5h.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

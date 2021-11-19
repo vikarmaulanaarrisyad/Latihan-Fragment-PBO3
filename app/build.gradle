@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.nim19041156.flexiblefragmentapp5h"
+        applicationId "com.nim19041081.flexiblefragmentapp5h"
         minSdk 22
         targetSdk 31
         versionCode 1
