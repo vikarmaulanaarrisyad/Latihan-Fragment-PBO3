@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlexibleFragmentApp 5H</string>
+    <string name="hallo_ini_home_fragment">Hallo Ini Home Fragment</string>
+    <string name="pindah_ke_category">pindah ke category</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_category">this_category</string>
+    <string name="pindah_ke_fragrment_lifestyle">Pindah Ke Fragrment Lifestyle</string>
+    <string name="ini_fragment_category">Ini Fragment Category</string>
+    <string name="category_name">category name</string>
+    <string name="category_description">category description</string>
+    <string name="to_profile">Ke Halaman Profile Activity</string>
+    <string name="show_dialog">Tampilkan Sebuah Dialog</string>
+    <string name="question_coach">question coach</string>
+    <string name="sir_alex_ferguson">sir alex ferguson</string>
+    <string name="jose_mourinho">jose mourinho</string>
+    <string name="louis_van_gaal">louis van gaal</string>
+    <string name="david_moyes">david moyes</string>
+    <string name="close">Tutup</string>
+    <string name="choose">Pilih</string>
+    <string name="this_profile">Ini Halaman Profile</string>
+</resources>
